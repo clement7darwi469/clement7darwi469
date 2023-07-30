@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @clement7darwi469. 
+- 👀 I’m interested in Java. I’m currently learning Java.
+- 🌱 Undergraduate developer proficient in Java. 
+- 💞️ Eager to contribute to open-source projects. Love coding.
